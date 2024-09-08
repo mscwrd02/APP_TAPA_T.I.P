@@ -3,7 +3,7 @@
 <br />
 
 <p align="center">
- <b>🏆 2022 과학기술정보통신부 장관상 수상 작품 🏆</b>
+ <b>🏆 2022 received the Minister of Science and ICT Award 🏆</b>
 </p>
 <p align="center">
     <img src="assets/TAPAexplain.gif" width="70%" />
